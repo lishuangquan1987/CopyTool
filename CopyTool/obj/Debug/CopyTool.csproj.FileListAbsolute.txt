@@ -1,0 +1,11 @@
+E:\Project2023\CopyTool\CopyTool\bin\Debug\CopyTool.exe.config
+E:\Project2023\CopyTool\CopyTool\bin\Debug\CopyTool.exe
+E:\Project2023\CopyTool\CopyTool\bin\Debug\CopyTool.pdb
+E:\Project2023\CopyTool\CopyTool\obj\Debug\CopyTool.csproj.AssemblyReference.cache
+E:\Project2023\CopyTool\CopyTool\obj\Debug\CopyTool.csproj.SuggestedBindingRedirects.cache
+E:\Project2023\CopyTool\CopyTool\obj\Debug\CopyTool.Form1.resources
+E:\Project2023\CopyTool\CopyTool\obj\Debug\CopyTool.Properties.Resources.resources
+E:\Project2023\CopyTool\CopyTool\obj\Debug\CopyTool.csproj.GenerateResource.cache
+E:\Project2023\CopyTool\CopyTool\obj\Debug\CopyTool.csproj.CoreCompileInputs.cache
+E:\Project2023\CopyTool\CopyTool\obj\Debug\CopyTool.exe
+E:\Project2023\CopyTool\CopyTool\obj\Debug\CopyTool.pdb
